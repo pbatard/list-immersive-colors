@@ -3,6 +3,7 @@ list-immersive-colors: Lists Windows' immersive colors
 
 [![Build status](https://img.shields.io/appveyor/ci/pbatard/list-immersive-colors.svg?style=flat-square)](https://ci.appveyor.com/project/pbatard/list-immersive-colors)
 [![Release](https://img.shields.io/github/release-pre/pbatard/list-immersive-colors.svg?style=flat-square)](https://github.com/pbatard/list-immersive-colors/releases)
+[![Github stats](https://img.shields.io/github/downloads/pbatard/list-immersive-colors/total.svg?style=flat-square)](https://github.com/pbatard/list-immersive-colors/releases)
 [![Licence](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 This application is designed to list all the Immersive Colours that can be used with the
